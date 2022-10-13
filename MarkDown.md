@@ -3,15 +3,15 @@
 ### Título nível 3
 
 ### Escritas:
-__Negrito__ **Negrito** *Itálico*
+__Negrito__ & **Negrito** & *Itálico*
 ___
-__*Negrito e Itálico*__ ***negrito e italico***
+__*Negrito e Itálico*__ & ***Negrito e Italico***
 ___
 ~Letra Riscada~
 
 ### listas:
 
-Lista Numedara:
+Lista Numerada:
 
 1. Jorge
 2. Pedro
@@ -35,7 +35,10 @@ Lista de Tarefas:
    - [ ] Provas b2
 ___
 ### Imagens e Links
+![nezuko correndo](https://user-images.githubusercontent.com/114034983/195644994-6e962fa8-21c9-445d-8260-2539fd69c7a0.jpg)
+
 [Instagram](https://www.instagram.com/l.a_ferraz/)
+
 [Telegram](https://t.me/AranhaLeonardo)
 ___
 ## Tabelas
@@ -65,7 +68,9 @@ Olá GitHub :octocat:
 Como **Steve Jobs** disse uma vez:
 
 > Decidir o que não fazer é tão
+
 > importante quanto decidir
+
 > o que fazer
 
 ### Respostas e Menções
